@@ -1,0 +1,9 @@
+{
+  "directory": "/vendor/bower_components",
+  "endpoint": "",
+  "json": "bower.json",
+  "searchpath": [
+    "https://bower.herokuapp.com"
+  ],
+  "shorthand_resolver": "git://example.com/{{{ organization }}}/{{{ package }}}.git"
+}

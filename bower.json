@@ -1,0 +1,18 @@
+{
+  "name": "guide",
+  "version": "0.0.0",
+  "homepage": "https://github.com/jungmyung79/guide01",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "/vendor/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "handlebars": "~4.0.3"
+  }
+}
